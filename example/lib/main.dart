@@ -34,9 +34,7 @@ class _MyAppState extends State<MyApp> {
     });
 
     // close splashscreen when ready
-    // Future.delayed(Duration(seconds: 2)).then((value) {
-    //   splashController.close();
-    // });
+    splashController.close();
   }
 
   @override

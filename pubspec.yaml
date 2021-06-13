@@ -1,7 +1,7 @@
 name: secondsplash
-description: Implemented a flutter splash for a smooth transition after the native splash ends, with platform aware.
+description: Implemented a flutter splash for a smooth transition after the native splash ends.
 version: 1.0.0
-homepage:
+homepage: https://github.com/fuadarradhi/secondsplash
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
